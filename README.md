@@ -24,3 +24,7 @@ Predicting which customers will continue to use Ultimate's ride service is the f
 Machine Learning Classification methods are employed to make predictions of long-term or short-term customer
 use of the service. In this project, the XGBoost Classifier gave the best results. Analysis and recommendations for
 retaining customers are in the written report. 
+
+**Code**
+
+[Reading JSON Data](https://github.com/swlew369/Ultimate_Take-Home_Challenge/blob/master/Data_EDA_Reading_JSON_Files.ipynb)
