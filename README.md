@@ -34,3 +34,7 @@ retaining customers are in the written report.
 [Part3 EDA: data analysis of customer data](https://github.com/swlew369/Ultimate_Take-Home_Challenge/blob/master/Ultimate_Challenge_Part_3_EDA.ipynb)
 
 
+**Report**
+
+[report as pdf file]()
+
