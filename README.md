@@ -22,5 +22,5 @@ Part 3: Predictive Modeling
 
 Predicting which customers will continue to use Ultimate's ride service is the focus of this section.
 Machine Learning Classification methods are employed to make predictions of long-term or short-term customer
-status. In this project, the XGBoost Classifier gave the best results. Analysis and recommendations for
+use of the service. In this project, the XGBoost Classifier gave the best results. Analysis and recommendations for
 retaining customers are in the written report. 
