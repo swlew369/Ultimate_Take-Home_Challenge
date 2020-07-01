@@ -38,5 +38,5 @@ retaining customers are in the written report.
 
 **Report**
 
-[report as pdf file]()
+[report as pdf file](https://github.com/swlew369/Ultimate_Take-Home_Challenge/blob/master/Ultimate_Report_Lew.pdf)
 
