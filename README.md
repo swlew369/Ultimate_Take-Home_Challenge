@@ -33,7 +33,7 @@ retaining customers are in the written report.
 
 [Part3 EDA: data analysis of customer data](https://github.com/swlew369/Ultimate_Take-Home_Challenge/blob/master/Ultimate_Challenge_Part_3_EDA.ipynb)
 
-[Part3 Classification: Machine Learning Classificaton with differnt models including XGBoost](https://github.com/swlew369/Ultimate_Take-Home_Challenge/blob/master/Ultimate_Challenge_Part_3_Classification-XGBoost_Optim_2.ipynb)
+[Part3 Classification: Machine Learning Classificaton with different models including XGBoost](https://github.com/swlew369/Ultimate_Take-Home_Challenge/blob/master/Ultimate_Challenge_Part_3_Classification-XGBoost_Optim_2.ipynb)
 
 
 **Report**
