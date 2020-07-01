@@ -28,3 +28,9 @@ retaining customers are in the written report.
 **Code**
 
 [Reading JSON Data](https://github.com/swlew369/Ultimate_Take-Home_Challenge/blob/master/Data_EDA_Reading_JSON_Files.ipynb)
+
+[Part 1 EDA: Analysis of Rider Demand](https://github.com/swlew369/Ultimate_Take-Home_Challenge/blob/master/Data_EDA_Part_1.ipynb)
+
+[Part3 EDA: data analysis of customer data](https://github.com/swlew369/Ultimate_Take-Home_Challenge/blob/master/Ultimate_Challenge_Part_3_EDA.ipynb)
+
+
