@@ -10,7 +10,7 @@ Code is provided in the form of Jupyter Notebooks.
 A written report in the form of a pdf file is also provided. 
 
 Part 1: Exploratory Data Analysis 
-Analysis of data consisting of timestamps for logins for the purpose of determing patterns of demand on
+In ths section, analysis of data consisting of timestamps for logins for the purpose of determing patterns of demand on
 a daily and monthly basis. The number of logins during 60 minute and 15 minute intervals during the day will be analyzed and discussed as well.
 
 
