@@ -1,6 +1,6 @@
 # Ultimate_Take-Home_Challenge
 
-This is a data analysis challenge from Springboard. It is part of the Springboard Data Science curriculum.
+This is a data analysis challenge from Springboard, as part of the Springboard Data Science curriculum.
 In this challenge, Ultimate, a rider service company, is interested in studying patterns of demand for rides
 and the prediction of customer retention status. Reported here are the key hours and quarter hours for ridership demand
 and the customer information that is useful in predicting whether a customer will use Ultimate's service 5-6 months after signing up.
