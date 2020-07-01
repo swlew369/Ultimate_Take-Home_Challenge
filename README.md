@@ -9,7 +9,7 @@ In addition, suggestions are made for retention of customers.
 Code is provided in the form of Jupyter Notebooks.
 A written report in the form of a pdf file is also provided. 
 
-Part 1: Exploratory Data Analysis 
+**Part 1: Exploratory Data Analysis** 
 
 In ths section, analysis of data consisting of timestamps for logins for the purpose of determing patterns of demand on
 a daily and monthly basis is discussed. The number of logins during 60 minute and 15 minute intervals during the day will be analyzed and discussed as well.
