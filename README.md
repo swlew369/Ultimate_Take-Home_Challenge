@@ -16,7 +16,7 @@ a daily and monthly basis is discussed. The number of logins during 60 minute an
 
 **Part 2: Experiment and Metrics Design**
 
-This part is in the written report where an experiment is proposed to study a metric of succes for a proposal to encourage drivers in two cities to service riders in the other city. There is no code for this part.
+This part is in the written report where an experiment is proposed to study a metric of success for a proposal to encourage drivers in two cities to service riders in the other city. There is no code for this part.
 
 **Part 3: Predictive Modeling**
 
