@@ -11,7 +11,7 @@ A written report in the form of a pdf file is also provided.
 
 **Part 1: Exploratory Data Analysis** 
 
-In ths section, analysis of data consisting of timestamps for logins for the purpose of determing patterns of demand on
+In ths section, analysis of data, timestamps for logins, for determing patterns of ridership demand on
 a daily and monthly basis is discussed. The number of logins during 60 minute and 15 minute intervals during the day will be analyzed and discussed as well.
 
 **Part 2: Experiment and Metrics Design**
